@@ -25,3 +25,10 @@ srv/.factorypath
 # app
 app/**/dist
 app/**/localService/*.xml
+fioriHtmlRunner.html
+.*/fioriHtmlRunner.html
+mock_preview_sapui5.html
+.*/mock_preview_sapui5.html
+extended_runnable_file.html
+.*/extended_runnable_file.html
+sap-ui-cachebuster-info.json
